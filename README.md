@@ -1,2 +1,2 @@
 # ags-dispatcher
-An ArcGIS Server Geoprocessing Script Dispather
+An ArcGIS Server Geoprocessing Script Dispatcher
